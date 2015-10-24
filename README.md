@@ -1,2 +1,2 @@
-# coursera_computing_python
-pb's projects for Coursera's Specialization in Computing - Programming in Python
+# Interactive Programming in Python - mini projects
+Interactive Programming in Python, part of the Fundamentals of Computing Specialization on Coursera, provides an in depth look at the core structures of the python language through the implementation of weekly mini projects. These mini projects take the form of interactive games. python project online, using CodeSkulptor, an online Python development tool created by one of the teachers on this course, Scott Rixner.
