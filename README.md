@@ -4,6 +4,9 @@
 To run the projects within this repository, click the project name and within the CodeSkulptor window, click the run button in the upper left corner.
 
 [Mini Project: "Pong"] (http://www.codeskulptor.org/#user40_ndE4l20gelg9CTI.py)
+
 [Mini Project: "Memory"] (http://www.codeskulptor.org/#user40_kA51moxxMRJxj8g.py)
+
 [Mini Project: "Blackjack"] (http://www.codeskulptor.org/#user40_agsXseehE7oiVQq.py)
+
 [Mini Project: "Asteroids"] (http://www.codeskulptor.org/#user40_ACv86CplZROJXpP.py)
